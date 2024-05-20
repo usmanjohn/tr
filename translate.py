@@ -11,7 +11,7 @@ def translate_text(text, target_language="ko"):
     response = openai.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
-            {"role": "system", "content": "You are a professional insurance lawyer who is good at translating documents accurately while keeping paragraphing and styles."},
+            {"role": "system", "content": "Important: Do not never reply except translated text or 'wowo'. Reply 'wowo' if you have any problem. You are a professional insurance lawyer who is good at translating documents accurately while keeping paragraphing and styles."},
             {"role": "user", "content": prompt}
         ],
         max_tokens=1000
