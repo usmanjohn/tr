@@ -25,7 +25,8 @@ def translate_document(doc, target_language="ko"):
     translated_doc = Document()
     for paragraph in doc.paragraphs:
         if paragraph.text.strip():
-            translated_text, messages = translate_text(messages, paragraph.text, target_language)
+            translated_text, messages = translate_text(paragraph.text, messages, target_language)
+
             translated_doc.add_paragraph(translated_text)
     return translated_doc
 
