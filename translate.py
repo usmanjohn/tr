@@ -12,7 +12,7 @@ def translate_text(messages, text, target_language="ko"):
         messages=messages,
         max_tokens=1000
     )
-    translated_text = response.choices[0].message['content'].strip()
+    translated_text = response['choices'][0]['message']['content'].strip()  # Adjusted to correctly access content
     return translated_text, messages
 
 def translate_document(doc, target_language="ko"):
