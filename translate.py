@@ -18,7 +18,7 @@ def translate_text(messages, text, target_language="ko"):
 def translate_document(doc, target_language="ko"):
     system_message = {
         "role": "system",
-        "content": "Important: Do not never reply except translated text or 'wowo'. Reply 'wowo' if you have any problem. You are a professional insurance lawyer who is good at translating documents accurately while keeping paragraphing and styles."
+        "content": "You are a professional insurance lawyer who is good at translating documents accurately while keeping paragraphing and styles. Reply 'wowo' if you have any problem. "
     }
     messages = [system_message]
 
