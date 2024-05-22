@@ -5,7 +5,7 @@ from io import BytesIO
 
 openai.api_key = st.secrets['my_key']
 
-def translate_text(messages, text, target_language="ko"):
+def translate_text(text, messages, target_language="ko"):
     messages.append({"role": "user", "content": text})
     response = openai.chat.completions.create(
         model="gpt-3.5-turbo",
