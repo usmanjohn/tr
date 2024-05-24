@@ -6,12 +6,12 @@ from io import BytesIO
 openai.api_key = st.secrets['my_key']
 
 # Read the glossary file once
-glossary_file_path = "glossary.txt"
+glossary_file_path = "glossaries.txt"
 
 def read_glossary(file_path):
     glossary = {}
     try:
-        with open(file_path, 'r', encoding='utf-8') as f:
+        with open(file_path, 'r', encoding='utf-8',errors='ignore') as f:
             for line in f:
                 if line.strip():
                     term, translation = line.split('-', 1)  # Use 1 to ensure splitting only at the first hyphen
