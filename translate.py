@@ -5,27 +5,47 @@ from io import BytesIO
 
 openai.api_key = st.secrets['my_key']
 
+# Read the glossary file once
+glossary_file_path = "glossary.txt"
+
+def read_glossary(file_path):
+    glossary = {}
+    with open(file_path, 'r') as f:
+        for line in f:
+            if line.strip():
+                term, translation = line.split('-')
+                glossary[term.strip()] = translation.strip()
+    return glossary
+
+glossary = read_glossary(glossary_file_path)
+
 def translate_document(doc, target_language="ko"):
     # System message to set the behavior of the assistant
     system_message = {
         "role": "system",
-        "content": f"You are a professional insurance lawyer who is good at translating documents accurately while keeping paragraphing and styles."
+        "content": (
+            f"You are a professional insurance lawyer who is good at translating documents accurately "
+            f"while keeping paragraphing and styles. Use the following glossary terms for translation:\n\n" +
+            "\n".join([f"{term}: {translation}" for term, translation in glossary.items()])
+        )
     }
+    
     # User message to provide the instruction and content
     user_message = {
         "role": "user",
         "content": f"Translate the following text to {target_language}:\n\n" + "\n\n".join(paragraph.text for paragraph in doc.paragraphs if paragraph.text.strip())
     }
+    
     messages = [system_message, user_message]
 
     # Send the messages to the OpenAI API
     response = openai.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4-turbo",
         messages=messages,
-        max_tokens=4000
+        max_tokens=5000
     )
 
-    translated_text = response.choices[0].message.content.strip()
+    translated_text = response.choices[0].message['content'].strip()
     translated_paragraphs = translated_text.split('\n\n')
 
     translated_doc = Document()
