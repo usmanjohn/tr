@@ -50,7 +50,7 @@ def translate_document(doc, target_language="ko"):
         max_tokens=4000
     )
 
-    translated_text = response.choices[0].message['content'].strip()
+    translated_text = response.choices[0].message.content.strip()
     translated_paragraphs = translated_text.split('\n\n')
 
     translated_doc = Document()
