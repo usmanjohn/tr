@@ -38,14 +38,14 @@ def translate_document(doc, target_language="ko"):
     # User message to provide the instruction and content
     user_message = {
         "role": "user",
-        "content": f"Translate the following text to {target_language}:\n\n" + "\n\n".join(paragraph.text for paragraph in doc.paragraphs if paragraph.text.strip())
+        "content": f"while translating, Keep referenced document names and special terms english for easier search. Translate the following text to {target_language}: \n\n" + "\n\n".join(paragraph.text for paragraph in doc.paragraphs if paragraph.text.strip())
     }
     
     messages = [system_message, user_message]
 
     # Send the messages to the OpenAI API
     response = openai.chat.completions.create(
-        model="gpt-4-turbo",
+        model="gpt-4o",
         messages=messages,
         max_tokens=4000
     )

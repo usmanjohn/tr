@@ -22,7 +22,7 @@ administrative changes - 행정 변경
 administrative matters - 행정 사항
 adverse circumstances - 불리한 상황
 advisors - 자문사
-aggregation of risks - 위험 집계
+aggregation of risks - 리스크 집계
 agreed template - 합의된 템플릿
 aia company limited - aia 회사 리미티드
 aia governance - aia 거버넌스
@@ -32,22 +32,22 @@ aia group policies or standards - aia 그룹 정책 또는 표준
 aia group reinsurance management policy - aia 그룹 재보험 관리 정책
 aia group rmp - aia 그룹 재보험 관리 정책
 aia group’s reinsurance policies - aia 그룹의 재보험 정책
-aia group’s risk appetite - aia 그룹의 위험 선호
+aia group’s risk appetite - aia 그룹의 리스크 선호
 aia international limited - aia 인터내셔널 리미티드
 aia korea bod - aia korea 이사회
 aia korea cfo - aia korea 최고재무책임자
 aia korea chief actuary - aia korea 최고 계리사
 aia korea executives - aia korea 경영진
-aia korea frc - aia korea 재무 및 위험 위원회
+aia korea frc - aia korea 재무 및 리스크 위원회
 aia korea rmp - aia korea 재보험 관리 정책
-alternative risk transfer arrangements - 대체 위험 이전 계약
+alternative risk transfer arrangements - 대체 리스크 이전 계약
 amendments - 수정
 annual review process - 연례 검토 과정
 annual strategic planning process - 연간 전략 계획 과정
 anomalies - 이상 현상
 anticipated value - 예상 가치
 appendix - 부록
-appetite for risks - 위험 선호도
+appetite for risks - 리스크 선호도
 applicable law - 적용 가능한 법률
 applicable regulation - 적용 가능한 규정
 application - 적용
@@ -55,10 +55,10 @@ approval - 승인
 approved arrangement - 승인된 계약
 approved reinsurance retention limits - 승인된 재보험 유지 한도
 arm's length terms - 공정 거래 조건
-arrangement with insignificant risk transfer - 무의미한 위험 이전 계약
+arrangement with insignificant risk transfer - 무의미한 리스크 이전 계약
 arrangements - 계약
-arrangements with insignificant risk transfer - 무의미한 위험 이전 계약
-art (alternative risk transfer) - 대체 위험 이전
+arrangements with insignificant risk transfer - 무의미한 리스크 이전 계약
+art (alternative risk transfer) - 대체 리스크 이전
 assessment - 평가
 assets - 자산
 attachments - 첨부 파일
@@ -71,7 +71,7 @@ authorized limit - 승인된 한도
 availability - 가능성
 background - 배경
 bankruptcy remoteness - 파산 원격성
-basis risk - 기준 위험
+basis risk - 기준 리스크
 benefits - 혜택
 binding offer - 구속적 제안
 board - 이사회
@@ -83,8 +83,8 @@ breach management - 위반 관리
 breaches - 위반
 broker - 중개인
 broker’s experience - 중개인의 경험
-bu (business unit) - 사업부
-bu levels - 사업부 수준
+bu (business unit) - BU
+bu levels - BU 수준
 business - 사업
 business objectives - 사업 목표
 business practice - 사업 관행
@@ -102,9 +102,9 @@ catastrophe claim limits - 재난 청구 한도
 catastrophe covers - 재난 커버
 catastrophe reinsurance - 재해 재보험
 catastrophe reinsurance program - 재해 재보험 프로그램
-catastrophe risks - 재난 위험
+catastrophe risks - 재난 리스크
 catastrophic reinsurance placement - 재난 재보험 배치
-catastrophic risk - 대재난 위험
+catastrophic risk - 대재난 리스크
 ceding bu - 양도 사업부
 ceding company - 양도 회사
 cfo - 최고재무책임자
@@ -130,14 +130,14 @@ connected or related party transactions - 관련 당사자 거래
 contingency liquidity sources - 비상 유동성 출처
 contractual obligations - 계약 의무
 contractual provisions - 계약 조항
-control - 관리
+control - 통제
 convenience - 편의
 conventional terrorism - 일반 테러리즘
 corporate policy portal - 기업 정책 포털
 corporate solutions business - 기업 솔루션 사업
 cost effective - 비용 효율적인
 counterparty - 상대방
-country risk - 국가 위험
+country risk - 국가 리스크
 coverage - 보장
 covered events - 보장된 사건
 cpg standard - cpg 표준
@@ -147,15 +147,15 @@ credit limit approval - 신용 한도 승인
 credit rating - 신용 등급
 credit rating downgrade - 신용 등급 하락
 credit requirements - 신용 요구 사항
-credit risk - 신용 위험
-credit risk exposure - 신용 위험 노출
+credit risk - 신용 리스크
+credit risk exposure - 신용 리스크 노출
 creditworthiness - 신용도
 critical illness - 중대 질병
-cro - 최고위험책임자들
+cro - 최고리스크책임자들
 cross-border nature - 국경 간 특성
 cross-border reinsurance - 국경 간 재보험
 cross-border reinsurers - 국경 간 재보험사
-cross-border risks - 국경 간 위험
+cross-border risks - 국경 간 리스크
 customers - 고객
 daily liquidity adequacy ratio (lar) - 일일 유동성 적정성 비율
 data - 데이터
@@ -194,12 +194,12 @@ economically justifiable cost - 경제적으로 정당화된 비용
 eligible counterparties - 적격 상대방
 empowerment - 권한 부여
 endorsement - 승인
-enterprise risk management - 기업 위험 관리
+enterprise risk management - 기업 리스크 관리
 erm - erm
 escalation - 보고
 evaluation - 평가
 event or circumstance - 사건 또는 상황
-excess risk - 초과 위험
+excess risk - 초과 리스크
 executive committee - 집행위원회
 executive management - 경영진
 exemptions - 면제
@@ -213,14 +213,14 @@ exposure data - 노출 데이터
 external agencies - 외부 기관
 external cash flows - 외부 현금 흐름
 external reinsurance - 외부 재보험
-external risk - 외부 위험
+external risk - 외부 리스크
 facultative reinsurance - 임의 재보험
 favorable terms - 유리한 조건
 fcsa - 재무 통제 자체 관리
 finance accounting team - 재무 회계 팀
 financial - 재무
 financial circumstances - 재정 상황
-financial controller - 재무 관리자
+financial controller - 재무 통제자
 financial guarantors - 금융 보증인
 financial position - 재무 상태
 financial projections - 재무 예상
@@ -230,15 +230,16 @@ forecast - 예측
 formal retention study - 정식 유지 연구
 formulating - 수립
 framework - 프레임워크
-frc - 재무 및 위험위원회
+frc - 재무 및 리스크위원회
 full review and approval procedures - 전체 검토 및 승인 절차
 fully-funded features - 완전 자금 조달 기능
 funds withheld - 보류 자금
 general counsel - 법률 고문
 general principles - 일반 원칙
-general risk climate - 일반 위험 환경
+general risk climate - 일반 리스크 환경
 generation - 생성
 global pandemic - 세계적 대유행
+Guidance Note - Guidance Note 
 governance - 거버넌스
 governance processes - 거버넌스 프로세스
 group actuarial - 그룹 계리팀
@@ -248,14 +249,14 @@ group business - 그룹 사업
 group chief actuary - 그룹 최고 계리사
 group compliance - 그룹 컴플라이언스
 group corporate policy governance standard - 그룹 기업 정책 거버넌스 표준
-group frc - 그룹 재무 및 위험 위원회
+group frc - 그룹 재무 및 리스크 위원회
 group life - 그룹 생명보험
 group office - 그룹 사무소
 group personal accident - 그룹 개인 사고
-group risk management policy - 그룹 위험 관리 정책
+group risk management policy - 그룹 리스크 관리 정책
 group tax - 그룹 세무
-group-wide enterprise risk management - 그룹 전체 기업 위험 관리
-group’s risk appetite framework - 그룹의 위험 선호 프레임워크
+group-wide enterprise risk management - 그룹 전체 기업 리스크 관리
+group’s risk appetite framework - 그룹의 리스크 선호 프레임워크
 growth - 성장
 guaranteed rates - 보장된 비율
 guideline - 지침
@@ -281,11 +282,11 @@ individual excess of loss - 개별 초과 손실
 industries - 산업
 inflows - 유입
 inquiries - 문의
-insignificant risk transfer - 무의미한 위험 이전
+insignificant risk transfer - 무의미한 리스크 이전
 insurance authority - 보험 당국
 insurance business - 보험 업무
-insurance risk - 보험 위험
-insurance risk transfer - 보험 위험 이전
+insurance risk - 보험 리스크
+insurance risk transfer - 보험 리스크 이전
 insured - 피보험자
 insurer - 보험사
 intermediaries - 중개자
@@ -300,7 +301,7 @@ internal underwriting guideline - 내부 인수 지침
 interpretation - 해석
 introduction - 소개
 investment portfolio - 투자 포트폴리오
-investment risk - 투자 위험
+investment risk - 투자 리스크
 investors - 투자자
 jurisdiction - 관할 지역
 key factors - 주요 요소
@@ -312,7 +313,7 @@ key personnel - 주요 인력
 key processes - 핵심 프로세스
 key reinsurance arrangements - 주요 재보험 계약
 key reinsurers - 주요 재보험사
-key risks - 핵심 위험
+key risks - 핵심 리스크
 key service providers - 주요 서비스 제공자
 korea branches - 한국 지사
 large claims - 대규모 청구
@@ -329,26 +330,28 @@ limits - 한계
 line of business - 업종
 liquidity - 유동성
 liquidity management and contingency - 유동성 관리 및 비상 계획
-liquidity management risk standard - 유동성 관리 위험 표준
+liquidity management risk standard - 유동성 관리 리스크 표준
 liquidity position - 유동성 상태
-liquidity risks - 유동성 위험
+liquidity risks - 유동성 리스크
 liquidity sources - 유동성 출처
-local approval process - 현지 승인 과정
-local laws - 지방 법률
-local legal team - 현지 법률 팀
-local regulation - 지역 규제
-local regulatory - 지역 규제
-local regulatory requirements - 지역 규제 요구 사항
-local reinsurance checking process - 현지 재보험 검토 절차
-local reinsurance guideline - 현지 재보험 지침
-local reinsurance providers - 현지 재보험 제공자
-local sign-off - 현지 승인
-location split - 위치 분할
+local approval process - 로컬 승인 과정
+local laws - 로컬 법률
+local legal team - 로컬 법률 팀
+local regulation - 로컬 규제
+local regulatory - 로컬 규제
+local regulatory requirements - 로컬 규제 요구 사항
+local reinsurance checking process - 로컬 재보험 검토 절차
+local reinsurance guideline - 로컬 재보험 지침
+local reinsurance providers - 로컬 재보험 제공자
+local sign-off - 로컬 승인
+location split - 로컬 분할
+local - 로컬
+
 long-term business - 장기 사업
 long-term focused - 장기 중심
-long-term trend risk - 장기 추세 위험
+long-term trend risk - 장기 추세 리스크
 main body - 주요 내용
-main risk - 주요 위험
+main risk - 주요 리스크
 management - 관리
 management action - 관리 조치
 management arrangements - 관리 계약
@@ -360,12 +363,12 @@ market - 시장
 market participants - 시장 참여자
 market practice - 시장 관행
 market value - 시장 가치
-material aggregation of risks - 주요 위험 집계
+material aggregation of risks - 주요 리스크 집계
 material arrangements - 중요 계약
 material breach - 중대한 위반
 material change - 중대 변화
 material extent - 실질적 범위
-material liquidity risks - 주요 유동성 위험
+material liquidity risks - 주요 유동성 리스크
 minimum requirements - 최소 요구 사항
 mitigation - 완화
 mitigation process/plan - 완화 과정/계획
@@ -379,11 +382,11 @@ natural disasters - 자연재해
 necessary approvals - 필요한 승인
 needs - 요구
 negative impacts - 부정적 영향
-net amount at risk - 위험 순액
+net amount at risk - 리스크 순액
 new applications - 새로운 신청
 new business underwriting - 신규 사업 인수
-new product/risk types - 새로운 제품/위험 유형
-new risks - 새로운 위험
+new product/risk types - 새로운 제품/리스크 유형
+new risks - 새로운 리스크
 non-compliance - 비준수
 non-guaranteed rates - 비보장 비율
 number of policies - 정책 수
@@ -393,10 +396,10 @@ offshore reinsurance providers - 해외 재보험 제공자
 operational failures - 운영 실패
 operational level - 운영 수준
 operational matters - 운영 문제
-operational risk - 운영 위험
+operational risk - 운영 리스크
 operations delegation of authority standard - 운영 권한 위임 표준
 original copy - 원본
-other risk concentrations - 기타 위험 집중
+other risk concentrations - 기타 리스크 집중
 outflows - 유출
 outsourcing agreements - 아웃소싱 계약
 outward - 외부로
@@ -416,7 +419,7 @@ plural - 복수
 policy - 정책
 policy administration systems - 정책 관리 시스템
 policy exemptions - 정책 면제
-policy owner - 정책 소유자
+policy owner - policy owner
 political conditions - 정치 조건
 potential arrangements - 잠재적 계약
 practices - 관행
@@ -450,6 +453,7 @@ recapture fee - 회수 수수료
 recapture rights - 회수권
 recourse - 재산 반환 청구권
 recovery of claims - 청구 회수
+Regional - Regional
 registered - 등록된
 regular review - 정기 검토
 regulation - 규제
@@ -466,7 +470,7 @@ reinsurance arrangement terms - 재보험 계약 조건
 reinsurance brokers - 재보험 중개인
 reinsurance cash flows - 재보험 현금 흐름
 reinsurance counterparty - 재보험 상대방
-reinsurance credit risk standard - 재보험 신용 위험 표준
+reinsurance credit risk standard - 재보험 신용 리스크 표준
 reinsurance deposits - 재보험 예금
 reinsurance documentation approval - 재보험 문서 승인
 reinsurance documentation standard - 재보험 문서화 표준
@@ -478,7 +482,7 @@ reinsurance management - 재보험 관리
 reinsurance management policy - 재보험 관리 정책
 reinsurance needs - 재보험 필요성
 reinsurance offers - 재보험 제안
-reinsurance operational risk assessment - 재보험 운영 위험 평가
+reinsurance operational risk assessment - 재보험 운영 리스크 평가
 reinsurance placement process - 재보험 배치 절차
 reinsurance pricing - 재보험 가격
 reinsurance pricing approval - 재보험 가격 승인
@@ -503,7 +507,7 @@ reinsurer sourcing process - 재보험사 선정 과정
 reinsurer - 재보험사
 relevant parties - 관련 당사자
 relevant policies - 관련 정책
-relevant risks - 관련 위험
+relevant risks - 관련 리스크
 relevant stakeholders - 관련 이해관계자
 remittable capital generation - 송금 가능 자본 생성
 report - 보고서
@@ -511,54 +515,54 @@ reputation - 평판
 request for proposal - 제안 요청
 required capital charges - 필요 자본 요구
 requirement - 요구 사항
-residual risk - 잔여 위험
+residual risk - 잔여 리스크
 responsibility - 책임
 responsible executive - 책임 임원
 responsible party - 책임 당사자
-retained net amount at risk - 보유 순 위험 금액
+retained net amount at risk - 보유 순 리스크 금액
 retained sum assured - 보유 확정 금액
 retention levels - 보유 수준
 retention limit - 보유 한도
 retention management - 유지 관리
 review - 검토
 reviewing process - 검토 과정
-risk aggregation on one life - 한 생명에 대한 위험 집계
-risk and control assessment process - 위험 및 통제 평가 과정
-risk appetite - 위험 선호도
-risk appetite statement - 위험 선호 선언문
-risk assessment - 위험 평가
-risk capacity - 위험 수용 능력
-risk committee - 위험 위원회
-risk concentration - 위험 집중
-risk exposure - 위험 노출
-risk functions - 위험 기능
-risk limits - 위험 한계
-risk management - 위험 관리
-risk management activities - 위험 관리 활동
-risk management framework - 위험 관리 프레임워크
-risk management needs - 위험 관리 요구
-risk management strategies - 위험 관리 전략
-risk metrics - 위험 측정지표
-risk modelling - 위험 모델링
-risk policies - 위험 정책
-risk premium - 위험 프리미엄
-risk principles - 위험 원칙
-risk profile - 위험 프로필
-risk strategy - 위험 전략
-risk tolerance - 위험 허용 수준
-risk tolerance levels - 위험 허용 수준
-risk tolerances - 위험 허용 수준
-risk transfer requirements - 위험 이전 요구 사항
-risk-adjusted return on capital - 자본 대비 위험 조정 수익률
-risk-based audit approach - 위험 기반 감사 접근
-risks underwritten - 인수된 위험
+risk aggregation on one life - 한 생명에 대한 리스크 집계
+risk and control assessment process - 리스크 및 통제 평가 과정
+risk appetite - 리스크 선호도
+risk appetite statement - 리스크 선호 선언문
+risk assessment - 리스크 평가
+risk capacity - 리스크 수용 능력
+risk committee - 리스크 위원회
+risk concentration - 리스크 집중
+risk exposure - 리스크 노출
+risk functions - 리스크 기능
+risk limits - 리스크 한계
+risk management - 리스크 관리
+risk management activities - 리스크 관리 활동
+risk management framework - 리스크 관리 프레임워크
+risk management needs - 리스크 관리 요구
+risk management strategies - 리스크 관리 전략
+risk metrics - 리스크 측정지표
+risk modelling - 리스크 모델링
+risk policies - 리스크 정책
+risk premium - 리스크 프리미엄
+risk principles - 리스크 원칙
+risk profile - 리스크 프로필
+risk strategy - 리스크 전략
+risk tolerance - 리스크 허용 수준
+risk tolerance levels - 리스크 허용 수준
+risk tolerances - 리스크 허용 수준
+risk transfer requirements - 리스크 이전 요구 사항
+risk-adjusted return on capital - 자본 대비 리스크 조정 수익률
+risk-based audit approach - 리스크 기반 감사 접근
+risks underwritten - 인수된 리스크
 rmp - 재보험 관리 정책
 rmp monitoring - rmp 모니터링
 robustness - 견고함
 roles - 역할
 roles and responsibilities - 역할과 책임
 rolling quarterly basis - 분기별 롤링 기준
-rora - 재보험 운영 위험 평가
+rora - 재보험 운영 리스크 평가
 rules - 규칙
 rules of interpretation - 해석 규칙
 safeguards - 보호 조치
@@ -585,7 +589,7 @@ social conditions - 사회 조건
 spe - 특수 목적 기구
 spe structure - 특수 목적 기구 구조
 special circumstances - 특별한 상황
-specific risks - 특정 위험
+specific risks - 특정 리스크
 sponsor - 스폰서
 stability - 안정성
 stakeholders - 이해관계자
@@ -596,7 +600,7 @@ state/province - 주/도
 statutory earnings - 법정 수익
 statutory requirements - 법정 요구 사항
 structural lar - 구조적 유동성 적정성 비율
-structural risk - 구조적 위험
+structural risk - 구조적 리스크
 structuring - 구조화
 subsidiary legal entity - 자회사 법적 실체
 suggested amendment - 제안된 수정
@@ -618,7 +622,7 @@ termination - 종료
 terms - 조건
 terms and conditions - 조건
 territory - 영토
-terrorism peril - 테러 위험
+terrorism peril - 테러 리스크
 third party assessments - 제3자 평가
 timely manner - 적시에
 tolerance - 허용 범위
