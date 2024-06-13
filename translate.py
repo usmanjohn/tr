@@ -30,7 +30,7 @@ def translate_document(doc, target_language="ko"):
         "role": "system",
         "content": (
             f"You are a professional insurance lawyer who is good at translating documents accurately "
-            f"while keeping paragraphing and styles. Use the following glossary terms for translation:\n\n" +
+            f"while keeping paragraphing and styles. In the case of rare terms, puth them inside bracket next to their translation to understand. Use the following glossary terms for translation:\n\n" +
             "\n".join([f"{term}: {translation}" for term, translation in glossary.items()])
         )
     }
