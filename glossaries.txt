@@ -419,6 +419,8 @@ plural - 복수
 policy - 정책
 policy administration systems - 정책 관리 시스템
 policy exemptions - 정책 면제
+policyholder - 계약자
+Policyholder Equity - 계약자지분
 policy owner - policy owner
 political conditions - 정치 조건
 potential arrangements - 잠재적 계약
@@ -661,80 +663,3 @@ words - 단어
 written agreement - 서면 합의
 written line - 서면 한도
 written quotes - 서면 견적
-General Expenses Standard - General Expenses Standard
-Embedded Value Standard - Embedded Value Standard
-AIA Group IFRS Accounting Policy Standard  - AIA Group IFRS Accounting Policy Standard 
-Group Sourcing Standard - Group Sourcing Standard
-Group Internal Economic Capital Assessment Policy - Group Internal Economic Capital Assessment Policy
-Reinsurance Pricing Standard - Reinsurance Pricing Standard
-Reinsurance Documentation Standard - Reinsurance Documentation Standard
-Travel and Entertainment Standard - Travel and Entertainment Standard
-Addendum to Nomination and Appointment of External Auditor Policy - Addendum to Nomination and Appointment of External Auditor Policy
-Experience Analysis and Assumption Setting (“EAAS”) Standard - Experience Analysis and Assumption Setting (“EAAS”) Standard
-Appointment and Independence Governance of External Auditor Policy - Appointment and Independence Governance of External Auditor Policy
-Pre-Approval for Audit, Audit-Related and Non-Audit Services - Pre-Approval for Audit, Audit-Related and Non-Audit Services
-Assignment of Finance Responsibitiies Standard - Assignment of Finance Responsibitiies Standard
-Policyholder Dividend Declaration Policy - Policyholder Dividend Declaration Policy
-Internal Control over Financial Reporting Standard - Internal Control over Financial Reporting Standard
-Finance Change Board (FCB) Change Management Standard 2022 - Finance Change Board (FCB) Change Management Standard 2022
-Project Approval and Governance Standard - Project Approval and Governance Standard
-Materiality framework - Materiality framework
-Corporate Solutions Underwriting Standard - Corporate Solutions Underwriting Standard
-Tax Policy - Tax Policy
-Finance Capital Events Standard - Finance Capital Events Standard
-Actuarial Model Risk Standard - Actuarial Model Risk Standard
-Actuarial Policy - Actuarial Policy
-Bermuda Technical Provision Standard - Bermuda Technical Provision Standard
-Addendum to Materiality Framework Standard - Addendum to Materiality Framework Standard
-Embedded Value Policy - Embedded Value Policy
-Intra-company Transactions standard - Intra-company Transactions standard
-Korea  BU Addendum to Policyholder Dividend Declaration Policy - Korea  BU Addendum to Policyholder Dividend Declaration Policy
-Annualised New Premium (“ANP”) Standard - Annualised New Premium (“ANP”) Standard
-Distribution Initiatives Approval Standard - Distribution Initiatives Approval Standard
-Policy of Internal Accounting Control - Policy of Internal Accounting Control
-Reinsurance Management Policy - Reinsurance Management Policy
-PDC Charter - PDC Charter
-Internal Control over Financial Reporting Standard - Internal Control over Financial Reporting Standard
-Operations Delegation of Authority Standard - Operations Delegation of Authority Standard
-Claims Operations Standard - Claims Operations Standard
-Underwriting and Claims Management Standard - Underwriting and Claims Management Standard
-Operations Delegation of Authority Standard - Operations Delegation of Authority Standard
-Claims Operations Standard - Claims Operations Standard
-Underwriting and Claims Management Standard - Underwriting and Claims Management Standard
-Terms of Reference for AIA Life Insurance Co. Ltd. – TDA Steering Committee - Terms of Reference for AIA Life Insurance Co. Ltd. – TDA Steering Committee
-AIA Architecture Governance Standard - AIA Architecture Governance Standard
-ITPO.001 IT Change Management Standard - ITPO.001 IT Change Management Standard
-AIA Group Information Security Policy (the “Policy”) - AIA Group Information Security Policy (the “Policy”)
-ITPR.004 IT Asset Management Standard - ITPR.004 IT Asset Management Standard
-ITPR.006 IT Incident Management Standard - ITPR.006 IT Incident Management Standard
-ITPR.007 IT Problem Management Standard - ITPR.007 IT Problem Management Standard
-ITSR.002 Server Hosting Standard - ITSR.002 Server Hosting Standard
-Information Security Incident Management Standard - Information Security Incident Management Standard
-Cryptography Standard - Cryptography Standard
-Technology Acceptable Use Standard - Technology Acceptable Use Standard
-IIS Security Standard - IIS Security Standard
-Middleware Security Standard - Middleware Security Standard
-Third Party Security Standard - Third Party Security Standard
-Security Logging and Monitoring Standard - Security Logging and Monitoring Standard
-System Configuration Security Standard - System Configuration Security Standard
-ITSR.036 Data Protection Standard - ITSR.036 Data Protection Standard
-User Identity and Access Management - User Identity and Access Management
-End User Computing and Mobile Device Security Standard - End User Computing and Mobile Device Security Standard
-Vulnerability Management Standard - Vulnerability Management Standard
-Application Security Standard - Application Security Standard
-ITSR.042 Data Centre Standard - ITSR.042 Data Centre Standard
-Apple macOS Security Standard - Apple macOS Security Standard
-Cloud Security Standard - Cloud Security Standard
-Payment Security Standard - Payment Security Standard
-Mobile Application Security Standard - Mobile Application Security Standard
-Customer Authentication Standard - Customer Authentication Standard
-Robotic Process Automation (RPA) Security Standard - Robotic Process Automation (RPA) Security Standard
-ITST.001 IT Naming Standard - ITST.001 IT Naming Standard
-New Business Operations Standard - New Business Operations Standard
-Container Security Standard - Container Security Standard
-Network Security Standard - Network Security Standard
-AIA Group Data Governance Standard - AIA Group Data Governance Standard
-AIA IT Product Standard Governance - AIA IT Product Standard Governance
-IFRS Accounting Policy Manual - IFRS Accounting Policy Manual
-Group Tax Standard - Group Tax Standard
-Servicing Operations Standard - Servicing Operations Standard
