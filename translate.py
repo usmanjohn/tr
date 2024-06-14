@@ -38,11 +38,11 @@ def translate_document(doc, target_language="ko"):
     # User message to provide the instruction and content
     user_message = {
         "role": "user",
-        "content": f"Additional Instructions for translation: 
+        "content": f"""Additional Instructions for translation: 
         1. In the case of rare terms, put them inside bracket next to their translation to understand clearly.
         2. Do not translate document names. (mostly you see them in references)
         3. Remember past translations and keep your wordings consistent across multiple requests. 
-        Now translate the following text  to {target_language}: \n\n" + "\n\n".join(paragraph.text for paragraph in doc.paragraphs if paragraph.text.strip())
+        Now translate the following text  to {target_language}: \n\n""" + "\n\n".join(paragraph.text for paragraph in doc.paragraphs if paragraph.text.strip())
     }
     
     messages = [system_message, user_message]
